@@ -1,7 +1,7 @@
 int main() {
-	int rr, xx;
-	rr = 0;
-	xx = 3;
+	int nrr, nxx;
+	nrr = 0;
+	nxx = 3;
 
 	return 0;
 }
